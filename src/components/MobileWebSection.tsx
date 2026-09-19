@@ -36,7 +36,7 @@ export const MobileWebSection: React.FC = () => {
                     <span className="w-2.5 h-2.5 rounded-full bg-yellow-500/80" />
                     <span className="w-2.5 h-2.5 rounded-full bg-green-500/80" />
                     <span className="ml-2 font-mono text-[11px] text-slate-300 hidden sm:inline">
-                      https://app.[NOME_DO_PRODUTO].com.br
+                      Ordo
                     </span>
                   </div>
                   <div className="flex items-center gap-2 text-[11px]">

@@ -16,7 +16,7 @@ export const Footer: React.FC<FooterProps> = ({ onOpenModalInfo }) => {
               <div className="w-8 h-8 rounded-lg bg-blue-600 flex items-center justify-center text-white shadow-xs">
                 <Package className="w-4 h-4" aria-hidden="true" />
               </div>
-              <span className="font-bold text-lg text-white tracking-tight">[NOME_DO_PRODUTO]</span>
+              <span className="font-bold text-lg text-white tracking-tight">Ordo</span>
             </a>
             <p className="text-sm text-slate-400 leading-relaxed max-w-sm mb-6">
               Controle de estoque simples para pequenos negócios.

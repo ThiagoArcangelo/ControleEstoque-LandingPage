@@ -46,7 +46,7 @@ export const Header: React.FC<HeaderProps> = ({ onOpenAuth }) => {
             </div>
             <div className="flex flex-col">
               <span className="font-bold text-base sm:text-lg tracking-tight text-slate-900 leading-tight">
-                [NOME_DO_PRODUTO]
+                Ordo
               </span>
               <span className="text-[11px] text-slate-500 font-medium -mt-0.5 hidden sm:block">
                 Controle de Estoque

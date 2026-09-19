@@ -146,7 +146,7 @@ export const Hero: React.FC<HeroProps> = ({ onOpenAuth }) => {
                   <span className="w-3 h-3 rounded-full bg-amber-400/80 inline-block" />
                   <span className="w-3 h-3 rounded-full bg-green-400/80 inline-block" />
                   <span className="ml-2 text-xs font-medium text-slate-500 hidden sm:inline-block">
-                    app.[NOME_DO_PRODUTO].com.br — Visão Geral
+                    Ordo - Visão Geral
                   </span>
                 </div>
                 <span className="text-xs font-medium text-slate-500 flex items-center gap-1">
