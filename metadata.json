@@ -1,0 +1,6 @@
+{
+  "name": "Controle de Estoque Simples | [NOME_DO_PRODUTO]",
+  "description": "Controle seu estoque pelo celular ou computador. Cadastre produtos, registre entradas e saídas e acompanhe suas movimentações de forma simples.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
