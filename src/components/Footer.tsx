@@ -142,7 +142,7 @@ export const Footer: React.FC<FooterProps> = ({ onOpenModalInfo }) => {
 
         {/* Bottom Copyright */}
         <div className="pt-8 flex flex-col sm:flex-row items-center justify-between text-xs text-slate-400 gap-4">
-          <p>© 2026 [NOME_DO_PRODUTO]. Todos os direitos reservados.</p>
+          <p>© 2026 Ordo. Todos os direitos reservados.</p>
           <p className="flex items-center gap-1.5">
             <Globe className="w-3.5 h-3.5" />
             <span>Feito para o comércio real. Sem complicação.</span>
